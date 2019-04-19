@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CharacterRecognition</string>
+    <string name="btn_reset">Reset</string>
+    <string name="btn_classify">Classificar</string>
+</resources>
